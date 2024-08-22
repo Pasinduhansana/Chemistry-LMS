@@ -1,0 +1,311 @@
+[
+    {
+        "lesson": "Structure And Bonding",
+        "content": [
+            {
+                "Sub_lesson": "Covalent Bonds",
+                "Description": "Covalent bonds are formed when two atoms share one or more pairs of electrons. These bonds create molecules with shared electron pairs, leading to stable structures.",
+                "materials": [
+                    {
+                        "name": "Atomic & Covalent Bonds",
+                        "type": "PDF",
+                        "link": "https://www.youtube.com/watch?v=h24UmH38_LI&pp=ygUOQ292YWxlbnQgQm9uZHM%3D"
+                    }
+                ]
+            },
+            {
+                "Sub_lesson": "Dative Covalent Bonds",
+                "Description": "Dative covalent bonds (also known as coordinate covalent bonds) occur when one atom provides both electrons for a bond with another atom. This type of bond is often seen in complex ions and coordination compounds.",
+                "materials": [
+                    {
+                        "name": "Atomic & Covalent Bonds",
+                        "type": "PDF",
+                        "link": "https://www.youtube.com/watch?v=9B5FGPDwX_E&pp=ygUUUmVzb25hbmNlIFN0cnVjdHVyZXM%3D"
+                    }
+                ]
+            },
+            
+    {
+        "Sub_lesson": "Resonance Structures",
+        "Description": "Resonance structures are different ways of drawing the same molecule to represent the delocalization of electrons within the molecule. These structures help explain the molecule's stability and electron distribution.",
+        "materials": [
+            {
+                "name": "Resonance Structures Explained",
+                "type": "Video",
+                "link": "https://www.youtube.com/watch?v=fYCzeFEAfjg&pp=ygUUUmVzb25hbmNlIFN0cnVjdHVyZXM%3D"
+            }
+        ]
+    },
+    {
+        "Sub_lesson": "Dipole Moments",
+        "Description": "Dipole moments measure the separation of positive and negative charges in a molecule, indicating its polarity. Molecules with significant dipole moments are polar, which affects their interactions with other substances.",
+        "materials": [
+            {
+                "name": "Dipole Moments Overview",
+                "type": "Video",
+                "link": "https://www.youtube.com/watch?v=Bx4hs7qAoys&pp=ygUORGlwb2xlIE1vbWVudHM%3D"
+            }
+        ]
+    },
+    {
+        "Sub_lesson": "Ionic Bonds",
+        "Description": "Ionic bonds are formed when one atom donates electrons to another, creating positively and negatively charged ions. The electrostatic attraction between these ions holds the compound together.",
+        "materials": [
+            {
+                "name": "Understanding Ionic Bonds",
+                "type": "Video",
+                "link": "https://www.youtube.com/watch?v=zpaHPXVR8WU&pp=ygULSW9uaWMgQm9uZHM%3D"
+            }
+        ]
+    },
+    {
+        "Sub_lesson": "Metallic Bonds",
+        "Description": "Metallic bonds occur between metal atoms where electrons are delocalized over a lattice of positive metal ions. This bonding gives metals their characteristic properties like conductivity and malleability.",
+        "materials": [
+            {
+                "name": "Metallic Bonds Explained",
+                "type": "Video",
+                "link": "https://www.youtube.com/watch?v=S08qdOTd0w0&pp=ygUOTWV0YWxsaWMgQm9uZHM%3D"
+            }
+        ]
+    },
+    {
+        "Sub_lesson": "Bond Polarity",
+        "Description": "Bond polarity refers to the distribution of electrical charge around a bond due to differences in electronegativity between the bonded atoms, resulting in polar or nonpolar bonds.",
+        "materials": [
+            {
+                "name": "Bond Polarity Tutorial",
+                "type": "Video",
+                "link": "https://www.youtube.com/watch?v=PVL24HAesnc&pp=ygUNQm9uZCBQb2xhcml0eQ%3D%3D"
+            }
+        ]
+    },
+    {
+        "Sub_lesson": "Molecular Geometry",
+        "Description": "Molecular geometry is the three-dimensional arrangement of atoms in a molecule. It is determined by the bonding and non-bonding electron pairs around the central atom.",
+        "materials": [
+            {
+                "name": "Molecular Geometry Explained",
+                "type": "Video",
+                "link": "https://www.youtube.com/watch?v=Q9-JjyAEqnU&pp=ygUSTW9sZWN1bGFyIEdlb21ldHJ5"
+            }
+        ]
+    }
+
+
+
+          ]
+    },
+    {
+        "lesson": "The Atomic Theory of Matter",
+        "content": [
+            {
+                "Sub_lesson": "Dalton's Atomic Theory",
+                "Description": "Dalton's Atomic Theory posits that all matter is composed of indivisible atoms, which combine in simple whole-number ratios to form compounds. It laid the foundation for modern chemistry.",
+            "materials": [
+            {
+                "name": "Atomic & Covalent Bonds",
+                "type": "PDF",
+                "link": "https://www.youtube.com/watch?v=fwhjCw-IUu0&pp=ygUbVGhlIEF0b21pYyBUaGVvcnkgb2YgTWF0dGVy"
+            }]
+            },
+            {
+                "Sub_lesson": "Modern Atomic Theory",
+                "Description": "Modern Atomic Theory incorporates quantum mechanics and the behavior of electrons in atoms, updating Dalton's ideas to include atomic structure and subatomic particles.",
+                            "materials": [
+            {
+                "name": "Atomic & Covalent Bonds",
+                "type": "PDF",
+                "link": "https://www.youtube.com/watch?v=b1nu-A-4YYA&pp=ygUUTW9kZXJuIEF0b21pYyBUaGVvcnk%3D"
+            }]
+            },
+            {
+                "Sub_lesson": "Atomic Models (Thomson, Rutherford, Bohr)",
+                "Description": "Different atomic models have been proposed to describe the structure of atoms: Thomson's 'plum pudding' model, Rutherford's nuclear model, and Bohr's planetary model."
+            },
+            {
+                "Sub_lesson": "Atomic Mass and Isotopes",
+                "Description": "Atomic mass is the weighted average mass of an element's isotopes. Isotopes are atoms of the same element with different numbers of neutrons."
+            },
+            {
+                "Sub_lesson": "Mole Concept",
+                "Description": "The mole concept is a fundamental chemical concept that defines the amount of substance. One mole contains Avogadro's number of particles."
+            },
+            {
+                "Sub_lesson": "Avogadro's Number",
+                "Description": "Avogadro's number is the number of particles in one mole of a substance, approximately 6.022 x 10^23."
+            }
+        
+        
+        ]
+    },
+    {
+        "lesson": "Electromagnetic Radiation and Waves",
+        "content": [
+            {
+                "Sub_lesson": "Nature of Electromagnetic Radiation",
+                "Description": "Electromagnetic radiation consists of waves of electric and magnetic fields propagating through space. It includes a range of wavelengths from gamma rays to radio waves."
+            },
+            {
+                "Sub_lesson": "Wave-Particle Duality",
+                "Description": "Wave-particle duality is the concept that every particle or quantum entity exhibits both wave-like and particle-like properties."
+            },
+            {
+                "Sub_lesson": "Electromagnetic Spectrum",
+                "Description": "The electromagnetic spectrum is the range of all types of electromagnetic radiation, from gamma rays to radio waves."
+            },
+            {
+                "Sub_lesson": "Photoelectric Effect",
+                "Description": "The photoelectric effect is the emission of electrons from a material when it absorbs light. This phenomenon demonstrates the particle nature of light."
+            },
+            {
+                "Sub_lesson": "Planck's Quantum Theory",
+                "Description": "Planck's quantum theory states that energy is quantized and emitted or absorbed in discrete amounts called quanta."
+            },
+            {
+                "Sub_lesson": "Wave Functions",
+                "Description": "Wave functions describe the quantum state of a particle and provide information about its probability distribution."
+            },
+            {
+                "Sub_lesson": "Heisenberg Uncertainty Principle",
+                "Description": "The Heisenberg Uncertainty Principle states that it is impossible to simultaneously know both the exact position and momentum of a particle."
+            },
+            {
+                "Sub_lesson": "Atomic Emission Spectra",
+                "Description": "Atomic emission spectra are the spectra of electromagnetic radiation emitted by atoms when electrons transition from higher to lower energy levels."
+            },
+            {
+                "Sub_lesson": "Absorption Spectra",
+                "Description": "Absorption spectra are formed when atoms absorb specific wavelengths of light, leaving dark lines in the continuous spectrum."
+            },
+            {
+                "Sub_lesson": "Blackbody Radiation",
+                "Description": "Blackbody radiation refers to the emission of light from a perfect blackbody, an idealized object that absorbs all incident radiation and emits thermal radiation."
+            },
+            {
+                "Sub_lesson": "Speed of Light",
+                "Description": "The speed of light in a vacuum is approximately 299,792 kilometers per second and is a fundamental constant in physics."
+            },
+            {
+                "Sub_lesson": "Wave Equations",
+                "Description": "Wave equations describe the behavior of waves, including their speed, frequency, and wavelength."
+            }
+        ]
+    },
+    {
+        "lesson": "Electronic Energy Levels of Atoms",
+        "content": [
+            {
+                "Sub_lesson": "Quantum Numbers",
+                "Description": "Quantum numbers describe the properties of atomic orbitals and the electrons in them, including their energy, angular momentum, and orientation."
+            },
+            {
+                "Sub_lesson": "Atomic Orbitals",
+                "Description": "Atomic orbitals are regions in an atom where there is a high probability of finding electrons. They have different shapes and energies."
+            },
+            {
+                "Sub_lesson": "Electron Configuration",
+                "Description": "Electron configuration is the distribution of electrons in the orbitals of an atom. It follows specific rules such as the Aufbau principle and Pauli exclusion principle."
+            }
+        ]
+    },
+    {
+        "lesson": "Electron Configuration",
+        "content": [
+            {
+                "Sub_lesson": "Electron Shells and Subshells",
+                "Description": "Electron shells are energy levels around the nucleus where electrons are found. Each shell contains subshells (s, p, d, f) with different shapes."
+            },
+            {
+                "Sub_lesson": "Orbital Diagrams",
+                "Description": "Orbital diagrams visually represent the distribution of electrons in orbitals, showing how electrons fill the available orbitals."
+            },
+            {
+                "Sub_lesson": "Aufbau Process",
+                "Description": "The Aufbau process describes the sequence in which electrons fill atomic orbitals, starting from the lowest energy level to higher levels."
+            },
+            {
+                "Sub_lesson": "Periodic Table Trends",
+                "Description": "Periodic table trends refer to the patterns observed in element properties such as atomic radius, ionization energy, and electronegativity across periods and groups."
+            },
+            {
+                "Sub_lesson": "Valence Electrons",
+                "Description": "Valence electrons are the electrons in the outermost shell of an atom and are responsible for chemical bonding and reactivity."
+            },
+            {
+                "Sub_lesson": "Electron Configurations of Ions",
+                "Description": "Electron configurations of ions describe the arrangement of electrons in an ion, taking into account the loss or gain of electrons compared to the neutral atom."
+            },
+            {
+                "Sub_lesson": "Shielding Effect",
+                "Description": "The shielding effect describes how inner electrons block the attraction between the nucleus and the outer electrons, affecting atomic size and ionization energy."
+            }
+        ]
+    },
+    {
+        "lesson": "Building of Periodic Table",
+        "content": [
+            {
+                "Sub_lesson": "History of the Periodic Table",
+                "Description": "The history of the periodic table traces its development from early classification systems to Mendeleev's periodic law and the modern periodic table."
+            },
+            {
+                "Sub_lesson": "Mendeleev's Periodic Law",
+                "Description": "Mendeleev's Periodic Law states that the properties of elements are a periodic function of their atomic masses, which led to the development of the periodic table."
+            },
+            {
+                "Sub_lesson": "Modern Periodic Table",
+                "Description": "The modern periodic table arranges elements by increasing atomic number and groups them according to their chemical properties and electron configurations."
+            },
+            {
+                "Sub_lesson": "Periodic Trends (Atomic Radius, Ionization Energy)",
+                "Description": "Periodic trends refer to patterns in element properties, such as atomic radius and ionization energy, which vary systematically across periods and groups."
+            },
+            {
+                "Sub_lesson": "Group and Period Classification",
+                "Description": "The periodic table is organized into groups (columns) and periods (rows), classifying elements based on their electron configurations and chemical properties."
+            }
+        ]
+    },
+    {
+        "lesson": "Bonding and Intermolecular Forces",
+        "content": [
+            {
+                "Sub_lesson": "Types of Chemical Bonds",
+                "Description": "Chemical bonds can be classified into ionic, covalent, and metallic bonds, each with distinct properties and behaviors."
+            },
+            {
+                "Sub_lesson": "Lewis Structures",
+                "Description": "Lewis structures are diagrams that represent the bonding between atoms in a molecule and the lone pairs of electrons that may exist."
+            },
+            {
+                "Sub_lesson": "VSEPR Theory",
+                "Description": "The Valence Shell Electron Pair Repulsion (VSEPR) theory predicts the shape of molecules based on the repulsion between electron pairs around a central atom."
+            },
+            {
+                "Sub_lesson": "Hybridization",
+                "Description": "Hybridization is the concept of mixing atomic orbitals to form new hybrid orbitals, which helps explain the bonding and geometry of molecules."
+            },
+            {
+                "Sub_lesson": "Dipole-Dipole Interactions",
+                "Description": "Dipole-dipole interactions are forces between the positive end of one polar molecule and the negative end of another polar molecule."
+            },
+            {
+                "Sub_lesson": "Hydrogen Bonding",
+                "Description": "Hydrogen bonding is a strong type of dipole-dipole interaction occurring when hydrogen is bonded to highly electronegative atoms like oxygen, nitrogen, or fluorine."
+            },
+            {
+                "Sub_lesson": "London Dispersion Forces",
+                "Description": "London dispersion forces are weak, temporary forces that arise from the momentary distribution of electrons in atoms or nonpolar molecules."
+            },
+            {
+                "Sub_lesson": "Covalent Network Solids",
+                "Description": "Covalent network solids are compounds where atoms are bonded by a continuous network of covalent bonds, resulting in very hard and high-melting substances."
+            },
+            {
+                "Sub_lesson": "Metallic Bonding",
+                "Description": "Metallic bonding involves a lattice of metal cations surrounded by a sea of delocalized electrons, which accounts for the conductivity and malleability of metals."
+            }
+        ]
+    }
+]

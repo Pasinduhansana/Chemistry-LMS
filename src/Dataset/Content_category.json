@@ -1,0 +1,128 @@
+[
+    {
+        "title":"Lesson",
+        "img": "/src/assets/Lessons.png",
+        "Content":[
+            {
+                "sub-content":"Atomic structure",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Structure and bonding",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Chemical calculations",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Gaseous state of matter",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Energetics",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Chemistry of s,p and d block elements",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Basic concepts of organic chemistry",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Equilibrium",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Electro chemistry",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Chemical kinetics",
+                "No-of-tutes":15
+            }
+
+        ]
+    },
+        {
+        "title":"Past Papers",
+        "img": "/src/assets/pastpapers1.png",
+        "Content":[
+            {
+                "sub-content":"2021 Past Papers",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"2022 Past Papers",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"2023 Past Papers",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"2024 Past Papers",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Model Papers",
+                "No-of-tutes":15
+            }
+        ]
+    },
+        {
+        "title":"Tute",
+        "img": "/src/assets/Tutes.png",
+        "Content":[
+            {
+                "sub-content":"Advanced Tutes",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Content Tutes",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Chamistry Tutes",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Revision Tutes",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"Alll in Tutes",
+                "No-of-tutes":15
+            }
+        ]
+    },
+        {
+        "title":"Revision",
+        "img": "/src/assets/Revision.jpg",
+        "Content":[
+            {
+                "sub-content":"2023 Revision 1",
+                "No-of-tutes":15
+            },
+                        {
+                "sub-content":"2023 Revision 2",
+                "No-of-tutes":15
+            },            {
+                "sub-content":"2023 Revision 3",
+                "No-of-tutes":15
+            },            {
+                "sub-content":"2023 Revision 4",
+                "No-of-tutes":15
+            },            {
+                "sub-content":"Final revision Discussion",
+                "No-of-tutes":15
+            },            {
+                "sub-content":"Rapid revision",
+                "No-of-tutes":15
+            }
+        
+        ]
+    }
+]

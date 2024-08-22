@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Covalent Bonds",
+    "description": "this is sample description.this will allows you to get an clear idea",
+    "type":"PDF",
+    "link": "https://web.ung.edu/media/Chemistry2/Chemistry-LR.pdf"
+  },
+  {
+    "name": "STRUCTURE OF ATOM",
+    "description": "this is sample description",
+    "type":"PDF",
+    "link": "https://ncert.nic.in/ncerts/l/kech102.pdf"
+  },
+    {
+    "name": "The electromagnetic spectrum",
+    "description": "this is sample description",
+    "type":"PDF",
+    "link": "https://cesar.esa.int/upload/201711/electromagnetic_spectrum_booklet_wboxes.pdf"
+  }
+    ]
